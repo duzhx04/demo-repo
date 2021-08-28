@@ -3,7 +3,8 @@
 
 Some descritption!
 momre details.!!!!!!
-jgioneonginion
+# local development
+1.open index.html in you brower.
 
 ## Subheader
 
