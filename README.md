@@ -2,7 +2,7 @@
 
 
 Some descritption!
-momre details.!!!!!!
+The file is ok.
 # local development
 1.open index.html in you brower.
 
